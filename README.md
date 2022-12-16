@@ -1,3 +1,3 @@
 # Filz
 Primeiro repositorio
-Testes de programação focados em html
+Arquivos referentes ao meu início de programação em html
